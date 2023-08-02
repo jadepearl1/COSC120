@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651515086 source:c:\users\jpmd1\desktop\cosc i\labs and assignments\hurricanestats\main.cpp
+	<iostream>
+	<iomanip>
+	<istream>
+	<cctype>
+	<cstdio>
+	<cstring>
+	<fstream>
+	<cmath>
+
