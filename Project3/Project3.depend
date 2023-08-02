@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649784290 source:c:\users\jpmd1\desktop\cosc i\labs and assignments\project3\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<fstream>
+

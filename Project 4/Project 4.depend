@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1652280715 source:c:\users\jpmd1\desktop\cosc i\labs and assignments\project 4\main.cpp
+	<iostream>
+	<iomanip>
+	<cctype>
+	<cstdio>
+	<cstring>
+	<fstream>
+	<cmath>
+
+1652285876 source:c:\users\jpmd1\desktop\cosc i\labs and assignments\project 4\jade p_hurricane proj 4.cpp
+	<iostream>
+	<iomanip>
+	<cctype>
+	<cstdio>
+	<cstring>
+	<fstream>
+	<cmath>
+

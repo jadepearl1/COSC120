@@ -1,0 +1,8 @@
+You chose option 2
+Desired grade: B
+Quiz Average: 79
+Homework Average: 80
+Test Average: 98
+Project Average: 66
+You need to score at least 56.5 on your final exam to earn a B.
+The above is the summary of your results.
